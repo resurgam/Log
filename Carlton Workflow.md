@@ -1,5 +1,7 @@
 # David Carlton's Workflow
 
+## My Browser and Web Habits
+
 I use [Firefox](http://www.mozilla.org/ "Firefox") as my primary web-browser, alongside MS Notepad for the basic organization of notes and 
 
 thoughts. As a Medievalist, I've also found the [Internet Archive's WayBack Machine](http://www.archive.org/ "wayback") to be indispensable. 
