@@ -16,7 +16,7 @@ add-on to examine *XML/CSS/HTML* documents on the web, and how they function in 
 
 By interrogating other people's code, I can assess the ways in which successful digital humanities 
 
-projects in my field, such as the semi-diplomatic XML Anglo-Saxon Chronicle, gather and present their 
+projects in my field, such as the semi-diplomatic [XML Anglo-Saxon Chronicle](http://asc.jebbo.co.uk/ "AS Chron"), gather and present their 
 
 data, and thus reexamine my own methodologies. In short, I use the potent elixir of Firefox, Notepad, 
 
