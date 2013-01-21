@@ -24,8 +24,9 @@ Firebug and preexisting DH projects as the starting point for a personal adventu
 
 reflexivity. Of course, I also have Internet Explorer, Opera and Google Chrome in the event of a 
 
-rendering problem with Firefox, but I haven't had experienced a catastrophic error in many moons.  
+rendering problem with Firefox, but I haven't had experienced a catastrophic error in many moons.
 
+## My Backup Habits
 
 For backup, I generally save *standard* academic assignments, such as papers, on my internal *SSD*, my 
 
@@ -57,6 +58,7 @@ Firefox. ScrapBook is helpful when I want to keep a functional copy of an online
 
 and don't want to worry about manually locating and downloading all pertinent files.  
 
+## Other Stuff I Use
 
 I employ <oXygen/> for writing XML documents,  Microsoft Word for word processing, and 
 
