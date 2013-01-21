@@ -28,7 +28,7 @@ rendering problem with Firefox, but I haven't had experienced a catastrophic err
 
 ## My Backup Habits
 
-For backup, I generally save *standard* academic assignments, such as papers, on my internal *SSD*, my 
+For backup, I generally save *standard* academic assignments, such as papers, on my internal SSD, my 
 
 Seagate 2TB external HDD, my 16GB HP flash-drive, and often on my UVic web-space, as well. However, for 
 
