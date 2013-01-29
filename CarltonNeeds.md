@@ -26,14 +26,14 @@ My project will benefit the general public by providing an easy-to-use platform 
 Alongside the following dates I expect to keep a running log of my progress, and any glitches I run into along the way.
 
 ###My Deadlines:
-1.)  _February 5th_ Have the font information acquired, and the schema defined and started
-2.)  _February 12th_ Have first half of texts transcribed; have font downloaded and ready
-3.)  _BEFORE READING BREAK, HAVE SCHEMA READY TO GO_
-4.) _February 26th_ Have all texts transcribed and ready to be marked up; start marking up texts
-5.) _March 11th_ Have first half of texts marked up and edited; start second half
+1.)  _February 5th_ Have the font information acquired, and the schema defined and started 
+2.)  _February 12th_ Have first half of texts transcribed; have font downloaded and ready 
+3.)  _BEFORE READING BREAK, HAVE SCHEMA READY TO GO_ 
+4.) _February 26th_ Have all texts transcribed and ready to be marked up; start marking up texts 
+5.) _March 11th_ Have first half of texts marked up and edited; start second half 
 6.) _March 18th_ Have second half of texts marked up; have homepage planned out 
-7.) _March 25th_ Have homepage completed; everything is pretty much done now
-8.) _April 2_ Final presentation; have everything fully presentable at this point; start writing report
+7.) _March 25th_ Have homepage completed; everything is pretty much done now 
+8.) _April 2_ Final presentation; have everything fully presentable at this point; start writing report 
 9.) _April 16_ Have final project report and all materials handed in to Jentery by this date  
 
 ## Support
