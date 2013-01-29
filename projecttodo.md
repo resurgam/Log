@@ -5,7 +5,7 @@
 
 2. get font(s) established and downloaded
 
-3. transcribe all the textual samples, along with their images saved locally for reference - ___DO ASAP__
+3. transcribe all the textual samples, along with their images saved locally for reference - DO ASAP
 
 4. Do first marking up / get an XML template established - Finish before March
 
