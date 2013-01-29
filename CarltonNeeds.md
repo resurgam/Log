@@ -28,7 +28,7 @@ Alongside the following dates I expect to keep a running log of my progress, and
 ###My Deadlines:
 1.  __February 5th__ Have the font information acquired, and the schema defined and started 
 2.  __February 12th__ Have first half of texts transcribed; have font downloaded and ready 
-3.  __BEFORE READING BREAK, HAVE SCHEMA READY TO GO_ 
+3.  BEFORE READING BREAK, HAVE SCHEMA READY TO GO
 4. __February 26th__ Have all texts transcribed and ready to be marked up; start marking up texts 
 5. __March 11th__ Have first half of texts marked up and edited; start second half 
 6. __March 18th__ Have second half of texts marked up; have homepage planned out 
