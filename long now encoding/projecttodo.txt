@@ -1,0 +1,24 @@
+# To Do List 
+### David Carlton
+
+
+1. ***transcribe all the textual samples, along with their images saved locally for reference*** [[DONE]]
+
+2. ***get font(s) established and downloaded*** [[DONE]]
+
+3. get a schema established and finished - will be done by Tuesday*** [[DONE]]
+
+4. Do first marking up / get an XML template established - Finish before March - start as soon as I have a working schema*** [[DONE]]
+
+5. Do first marking up / get a CSS template established  - Finish before March*** [[DONE EXCEPT FOR WHITE SPACE PROBLEM]]
+
+6. Mark-up and express the remaining extracts (9 per week - start as soon as I finish templates)
+
+7. create a very basic homepage to act as a link to each extract, each one given a unique name
+
+8. ?
+
+9. Profit!
+
+
+my group: alicia, Mika, me, Laura
