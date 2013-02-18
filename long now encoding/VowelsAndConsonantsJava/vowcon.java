@@ -11,22 +11,16 @@ if(asc==97||asc==101||asc==105||asc==111||asc==117) {
 
 vow++; vowL++;
 } else if(asc==65||asc==69||asc==73||asc==79||asc==85) {
-
 vow++; vowU++;
 } else if((asc>97&&asc<101)||(asc>101&&asc<105)||(asc>105&&asc<111)||(asc>111&&asc<117)||(asc>117&&asc<123)) {
-
 cons++; consL++;
 } else if((asc>65&&asc<69)||(asc>69&&asc<73)||(asc>73&&asc<79)||(asc>79&&asc<85)||(asc>85&&asc<91)) {
-
 cons++; consU++;
 } else if((asc>47&&asc<58)){
-
 num++;
 } else if(asc==32){
-
 sp++;
 } else {
-
 other++;
 }
 }
