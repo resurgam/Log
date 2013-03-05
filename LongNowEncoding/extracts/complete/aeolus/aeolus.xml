@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="LongerNow.rng" type="xml"?>
+<?xml-stylesheet type="text/css" href="LongerNow.css" title="Original"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title n="1">The Longer Now of Ulysses: Digital Life After Analog Death</title>
+				<title n="2">"aeolus"</title>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher> "The Longer Now of Ulysses: Digital Life After Analog Death" published by David Carlton as part of the "Long Now of Ulysses" library exhibit, hosted, sponsored and produced by the University of Victoria, English 507 and English 520.</publisher>
+				<sponsor> UVic </sponsor>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<author>
+						<name>James Joyce</name>
+					</author>
+					<title>Ulysses</title>
+					<pubPlace>Paris</pubPlace>
+					<publisher>Shakespeare and Company</publisher>
+					<date>1922</date>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text vowels="181" consonants="317" xml:space="preserve">
+		<body>
+			<head type="main"></head>
+			<lg type = "head" fontStyle="bold" fontSize="large"> 
+			<l n="1">NOTED CHURCHMAN AN OCCASIONAL </l>
+			<l n="2">CONTRIBUTOR</l>
+			</lg>
+			<lg type = "paragraph" fontStyle="normal" fontSize="normal"><p n="1">
+				<l type="blank">   - </l>
+				<lb><l type="narration">	The foreman handed back the galleypage suddenly, saying :</l></lb>
+				<lb><l type="speech">	—  <q>Wait. Where's the archbishop's letter ?  It's to be repeated in the Tele-</q></l></lb>
+				<l type="speech">   <q>graph. Where's what's his name?</q></l>
+				<lb><l type="narration">	He looked about him round his loud unanswering machines.</l></lb>
+				<lb><l type="speech">	—  <q>Monks, sir ? a voice asked from the castingbox.</q></l></lb>
+				<lb><l type="speech">	—  <q>Ay.  Where's Monks ?</q> </l></lb>
+				<lb><l type="speech">	—  <q>Monks !</q> </l></lb>
+				<lb><l type="narration">	Mr Bloom took up his cutting. Time to get out.</l></lb>
+				<lb><l type="speech">	—  <q>Then I'll get the design,  Mr Nannetti</q>,   he said,  <q>and you'll give it a</q> </l></lb>
+				<l type="speech">   <q>good pace I know.</q></l>
+				<lb><l type="speech">	—  <q>Monks !</q> </l></lb>
+				<lb><l type="speech"> 	—  <q>Yes, sir.</q></l></lb></p>
+				<p n="2">
+				<lb><l type="narration">	Three months' renewal.  Want to get some wind off my chest first  Try it</l></lb>
+				<l type="narration">   anyhow.  Rub in August : good idea : horseshow month. Ballsbridge.  Tourists</l>
+   				<l type="narration">   over for the show.</l></p>
+
+</lg>
+				
+</body>
+	</text>
+</TEI>

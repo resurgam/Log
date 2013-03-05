@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="LongerNow.rng" type="xml"?>
+<?xml-stylesheet type="text/css" href="LongerNow.css" title="Original"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title n="1">The Longer Now of Ulysses: Digital Life After Analog Death</title>
+				<title n="2">"nestor"</title>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher> "The Longer Now of Ulysses: Digital Life After Analog Death" published by David Carlton as part of the "Long Now of Ulysses" library exhibit, hosted, sponsored and produced by the University of Victoria, English 507 and English 520.</publisher>
+				<sponsor> UVic </sponsor>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<author>
+						<name>James Joyce</name>
+					</author>
+					<title>Ulysses</title>
+					<pubPlace>Paris</pubPlace>
+					<publisher>Shakespeare and Company</publisher>
+					<date>1922</date>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text vowels="381" consonants="634" xml:space="preserve">
+		<body>
+			<head type="main"></head>
+			<lg type = "paragraph" fontStyle="normal" fontSize="normal"><p n="1">				
+				<l type="narration">   Schoolhouse  voices  again  contending  called  to  him.   He  turned his angry</l>
+				<l type="narration">   white mustache.</l></p></lg>
+			<lg type = "dialogue" fontStyle="normal" fontSize="normal"><p n="2">		
+				<l type="speech">	—  <q>What is it now ?</q> he cried continually  without listening</l>
+				<l type="speech">	—  <q>Cochrane and Halliday are on the same side, sir</q>, Stephen cried.</l>
+				<l type="speech">	—  <q>Will you wait in my study for a moment</q>, Mr Deasy said, <q>till  I restore</q></l>
+				<l type="speech">   <q>order here.</q></l></p></lg>
+			<lg type = "dialogue" fontStyle="normal" fontSize="normal"><p n="3">		
+				<l type="narration">	And as he stepped fussily back acros the field his old  man's voice  cried</l>
+				<l type="narration">   sternly  :</l>
+				<l type="speech">	—  <q>What is the matter ?  What is it now ?</q></l></p></lg>
+			<lg type = "paragraph" fontStyle="normal" fontSize="normal"><p n="4">		
+				<l type="narration">	Their sharp voices cried about him on all sides: their many  forms  closed</l>
+				<l type="narration">   round him, the garish sushine bleaching the honey of his illdyed head.</l></p></lg>
+			<lg type = "paragraph" fontStyle="normal" fontSize="normal"><p n="5">		
+				<l type="narration">	Stale smoky air hung in the study  with the smell of drab abraded  leather</l>
+				<l type="narration">   of its chairs.  As on the first day  he bargained  with me here.   As it  was in the</l>
+				<l type="narration">   beginning, is now.  On the sideboard the tray of Stuart coins,  base treasure of a</l>
+				<l type="narration">   bog : and ever shall be.  And snug in their spooncase of purple plush, faded, the</l>
+   				<l type="narration">   twelve apostles having  preached to all  the  gentiles :  world without end.</l></p></lg>
+			<lg type = "dialogue" fontStyle="normal" fontSize="normal"><p n="6">		
+  			    <l type="narration">	A hasty step over the stone  porch and  in  the corridor.  Blowing  out  his</l>
+				<l type="narration">   rare moustache Mr Deasy  halted at the table.</l>
+				<l type="speech">	—  <q>First, our little financial settlement</q>, he said.</l></p></lg>
+			<lg type = "paragraph" fontStyle="normal" fontSize="normal"><p n="7">		
+				<l type="narration">	He brought  out  of his coat a  pocketbook bound by  a  leather  thong.  It</l>
+				<l type="narration">   slapped  open  and he  took  from  it two notes,  one of joined halves,  and  laid</l>
+				<l type="narration">   them carefully on the table strapping and</l></p></lg>
+				
+</body>
+	</text>
+</TEI>
