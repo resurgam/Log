@@ -4,6 +4,4 @@
 
 2. I was surprised how easy it was to find a font that approximated the book-font used in the images.
 
-3. to that end, I was equally as surprised to discover that said font renders a bit differently depending on 
-
-the browser/medium in which it is being used. Thus, while my .doc transcriptions look nearly perfect (except for the lower-case "w"s), my XML files are not quite as aesthetically accurate.
+3. to that end, I was equally as surprised to discover that said font renders a bit differently depending on the browser/medium in which it is being used. Thus, while my .doc transcriptions look nearly perfect (except for the lower-case "w"s), my XML files are not quite as aesthetically accurate.
