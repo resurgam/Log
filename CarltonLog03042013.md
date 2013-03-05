@@ -14,4 +14,4 @@ XML "preserve" tag. Thus, those texts marked "complete", are complete *except* f
 
 As always, the relevant draft components of my project (and my workflow) will be located under my personal "resurgam" repo, in the directory, "longNowEncoding" 
 
-https://github.com/resurgam/Log/longNowEncoding/extracts
+https://github.com/resurgam/Log/tree/master/LongNowEncoding/extracts
