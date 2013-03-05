@@ -48,11 +48,6 @@ font-style: italic;
 font-size: 0.9em;
 }
 
-w[type="verb"]:hover
-{
-
-
-}
 
 lg[type="head"] {
     display: inline; width: 25em; margin: 0 auto; text-align: left; letter-spacing: .1em;
@@ -63,14 +58,7 @@ lg[type="head"] {
 head[type="main"]{
 width: 19em; margin: 0 auto; text-align: left; letter-spacing: .1em; font-size: 1.1em;  font-weight: bold;
 }
-w[type="noun"]:hover
-{
 
-}
-w[type="pronoun"]:hover
-{
-
-}
 head[type="main"] {
     width: 20em; margin: 0 auto; text-align: left; letter-spacing: .3em;
 }
