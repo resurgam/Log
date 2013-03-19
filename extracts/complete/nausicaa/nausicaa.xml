@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="LongerNow.rng" type="xml"?>
+<?xml-stylesheet type="text/css" href="LongerNow.css" title="Original"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title n="1">The Longer Now of Ulysses: Digital Life After Analog Death</title>
+					<title n="2">"nausicaa"</title>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher> "The Longer Now of Ulysses: Digital Life After Analog Death" published by David Carlton as part of the "Long Now of Ulysses" library exhibit, hosted, sponsored and produced by the University of Victoria, English 507 and English 520.</publisher>
+				<sponsor> UVic </sponsor>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<author>
+						<name>James Joyce</name>
+					</author>
+					<title>Ulysses</title>
+					<pubPlace>Paris</pubPlace>
+					<publisher>Shakespeare and Company</publisher>
+					<date>1922</date>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text vowels="460" consonants="798" xml:space="preserve">
+		<body>
+			<head type="main"></head>
+			<lg type = "paragraph" fontStyle="normal" fontSize="normal"><p n="1">				
+				<l type="narration">   Wylie ) and  in  the fashionable intelligence Mrs Gertrude  Wylie was wearing a</l>
+				<l type="narration">   sumptuous confection of grey trimmed with expensive blue fox  was  not  to  be.</l>
+				<l type="narration">   He  was  too young  to  understand  He  would  not  believe in love,  a  woman's</l>
+				<l type="narration">   birthright.   The night of the  party  long  ago  in  Stoers' ( he was still  in  short</l>
+				<l type="narration">   trousers )  when  they  were  alone  and  he  stole  an  arm  round  her waist  she</l>
+				<l type="narration">   went  white  to  the  very  lips.  He  called  her  a little  one  in a strangely husky</l>
+				<l type="narration">   voice  and  snatched  a  half  kiss (the  first  !) but  it  was  only  the  end  of  her</l>
+				<l type="narration">   nose  and  then he  hastened from the room with  a  remark about refreshments.</l>
+				<l type="narration">   Impetuous fellow !  Strength of character had never  been Reggy  Wylie's strong</l>
+				<l type="narration">   point  and  he  who  would  woo  and  win  Gerty  MacDowell   must be  a man</l>
+				<l type="narration">   among  men.   But waiting.   always waiting  to  be asked  and  it  was  leap  year</l>
+				<l type="narration">   too and would soon be over.   No  prince  charming is her beau ideal to lay a rare</l>
+				<l type="narration">   and wondrous love at her feet but rather a manly  man  with  a  strong quiet face</l>
+				<l type="narration">   who had not found his ideal,  perhaps his  hair  slightly  flecked  with  gret,  and</l>
+				<l type="narration">   who  would  understand,  take  her  in  his  sheltering  arms, strain her to him in</l>
+   				<l type="narration">   all the strength of his deep passionate  nature and comfort her with  a  long long</l>
+  			    <l type="narration">   kiss.  It would  be  like  heaven.  For  such a  one  she  yearns this balmy summer</l>
+				<l type="narration">   eve.   With  all the  heart of her she longs  to  be  his only, his affianced bride for</l>
+				<l type="narration">   riches for  poor,  in sickness  in  health,  till death us  two  part,  from this to this</l></p></lg>
+				<l type="narration">   day forward.</l>
+				<lg type = "paragraph" fontStyle="normal" fontSize="normal"><p n="2">
+				<lb><l type="narration">	And while Edy  Boardman  was  with  little  Tommy  behind  the  pushcar</l></lb>
+				<l type="narration">   she  was just  thinking  would the  day  ever come  when  she  could  call  herself</l></p>
+
+</lg>
+				
+</body>
+	</text>
+</TEI>

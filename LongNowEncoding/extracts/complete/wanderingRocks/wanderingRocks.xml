@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="LongerNow.rng" type="xml"?>
+<?xml-stylesheet type="text/css" href="LongerNow.css" title="Original"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title n="1">The Longer Now of Ulysses: Digital Life After Analog Death</title>
+				<title n="2">"wanderingRocks"</title>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher> "The Longer Now of Ulysses: Digital Life After Analog Death" published by David Carlton as part of the "Long Now of Ulysses" library exhibit, hosted, sponsored and produced by the University of Victoria, English 507 and English 520.</publisher>
+				<sponsor> UVic </sponsor>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<author>
+						<name>James Joyce</name>
+					</author>
+					<title>Ulysses</title>
+					<pubPlace>Paris</pubPlace>
+					<publisher>Shakespeare and Company</publisher>
+					<date>1922</date>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text vowels="267" consonants="462" xml:space="preserve">
+		<body>
+			<head type="main"></head>
+			<lg type = "paragraph" fontStyle="normal" fontSize="normal"><p n="1">				
+				<l type="narration">   from her light skirt a clinging twig. </l></p></lg>
+			<lg type = "paragraph" fontStyle="normal" fontSize="normal"><p n="2">				
+				<lb><l type="narration">	Father  Conmee  blessed both gravely  and  turned  a thin  page  of  his</l></lb>
+				<l type="narration">   breviary. <q type="italic">Sin : Principes persecuti sunt  me  gratis : et a verbis tuis formidavit  cor</q> </l>
+				<l type="narration">   <q type="italic">meum.</q></l></p></lg>
+			<lg type = "break" fontStyle="normal" fontSize="normal"><p n="3">		
+				<l type="blank">    - </l>
+				<l type="symbol">   					      ***</l>
+				<l type="blank">   - </l></p></lg>
+			<lg type = "paragraph" fontStyle="normal" fontSize="normal"><p n="4">		
+				<lb><l type="narration">	Corny Kelleher closed his long daybook and glanced with his drooping</l></lb>
+				<l type="narration">   eye at a pine coffinlid sentried in a corner. He pulled himself erect,  went to it</l>
+				<l type="narration">   and,  spinning it on its axle,  viewed its shape and brass  furnishings.  Chewing</l>
+				<l type="narration">   his blade  of  hay  he laid the coffinlid  by and came to the  doorway.  There he</l>
+				<l type="narration">   tilted  his  harbrim  to give shade to his yes and leaned against  the  doorcase,</l>
+				<l type="narration">   looking idly out.</l></p></lg>
+			<lg type = "paragraph" fontStyle="normal" fontSize="normal"><p n="5">		
+				<lb><l type="narration">	Father John Conmee stepped into the Dollymount tram on Newcomen</l></lb>
+				<l type="narration">   bridge.</l></p></lg>
+			<lg type = "paragraph" fontStyle="normal" fontSize="normal"><p n="6">		
+   				<lb><l type="narration">	Corning Kelleher locked his largefooted boots and gazed, his hat downtilted,</l></lb>
+  			    <l type="narration">   chewing  his   blade  of  hay.</l></p></lg>
+			<lg type = "dialogue" fontStyle="normal" fontSize="normal"><p n="7">		
+				<lb><l type="narration">	Constable  57 C,  on  his beat,  stood  to  pass the time of day.</l></lb>
+				<lb><l type="speech"> 	—  <q>That's a fine day, Mr Kelleher.</q></l></lb>
+				<lb><l type="speech"> 	—  <q>Ay</q>,  Corny Kelleher said.</l></lb>
+				<lb><l type="speech">	—  <q>It's very close</q>, the constable said.</l></lb></p></lg>
+				
+</body>
+	</text>
+</TEI>

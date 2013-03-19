@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="LongerNow.rng" type="xml"?>
+<?xml-stylesheet type="text/css" href="LongerNow.css" title="Original"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title n="1">The Longer Now of Ulysses: Digital Life After Analog Death</title>
+				<title n="2">"sirens"</title>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher> "The Longer Now of Ulysses: Digital Life After Analog Death" published by David Carlton as part of the "Long Now of Ulysses" library exhibit, hosted, sponsored and produced by the University of Victoria, English 507 and English 520.</publisher>
+				<sponsor> UVic </sponsor>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<author>
+						<name>James Joyce</name>
+					</author>
+					<title>Ulysses</title>
+					<pubPlace>Paris</pubPlace>
+					<publisher>Shakespeare and Company</publisher>
+					<date>1922</date>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text vowels="284" consonants="511" xml:space="preserve">
+		<body>
+			<head type="main"></head>
+			<lg type = "paragraph" fontStyle="normal" fontSize="normal"><p n="1">				
+				<lb><l type = "dialogue">		—  Tiptop.</l></lb>
+				<lb><l type = "narration"> 	He hoped she had nice weather  in  Rostrevor.</l></lb>
+				<lb><l type = "speech"> 	<q>—  Gorgeous</q>,  she said. <q>Look  at  the  holy  show I  am.  Lying out on the</q></l></lb>
+				<l type = "speech">   <q>strand all day.</q></l>
+				<lb><l type = "narration">		Bronze whiteness</l></lb>
+				<lb><l type = "speech"> 	— <q>That was exceedingly naughty of you</q>,  Mr Dedalus told her and pressed</l></lb>
+				<l type = "narration">   her  hand  indulgently.   Tempting  poor  simple  males.</l>
+				<lb><l type = "narration">		Miss  Douce  of  satin  douced  her  arm away.</l></lb>
+				<lb><l type = "speech"> 	—  <q>O go away</q>,  she said.  <q>You're very simple</q>,  I don't think.</l></lb>
+				<lb><l type = "dialogue">		He was.</l></lb>
+				<lb><l type = "speech"> 	—  <q>Well  now,  I am</q>,  he mused.  <q>I  looked  so  simple  in  the  cradle  they</q></l></lb>
+				<l type = "speech">   <q>christened  me  simple  Simon.</q></l>
+			    <lb><l type = "speech">		—  <q>You must have been a doaty</q>, Miss Douce made answer.  <q>And what did</q></l></lb>
+				<l type = "speech">   <q>the doctor order today ?</q></l>
+				<lb><l type = "speech"> 	—  <q>Well  now</q>,  he mused,  <q>whatever you say  yourself.  I  think  I'll trouble</q></l></lb>
+   				<l type = "speech">   <q>you  for  some  fresh water  and a half glass of whisky.</q></l>
+  			    <lb><l type = "speech"> 	Jingle.</l></lb>
+				<lb><l type = "narration"> 	—  With the greatest alacrity, Miss Douce agreed.</l>
+				</lb>
+				</p>
+				</lg>
+				<lg type = "paragraph" fontStyle="normal" fontSize="normal"><p n="2">
+				<lb><l type = "narration">		With grace of alacrity towards the mirror gilt Cantrell and Cochrane's she</l></lb>
+				<l type = "narration">   turned  herself.   With grace  she  tapped  a  measure of  gold  whisky  from  her</l>
+				<l type = "narration">   crystal  keg.  Forth from  the  skirt  of  his  coat Mr Dedalus brought pouch and</l>
+				<l type = "narration">   pipe.  Alacrity she served.  He blew through the  flute two  husky  fifenotes.</l></p>
+
+</lg>
+				
+</body>
+	</text>
+</TEI>

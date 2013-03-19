@@ -1,0 +1,81 @@
+
+teiHeader{
+    display: none;
+}
+
+text, body, head, note, lg, l,title{
+    display: block; 
+}
+body{
+    padding-top: 2em;
+}
+
+lg{
+    text-indent: 0;
+}
+l {
+    text-align: left;
+    width: 45em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+l[type="blank"]
+{
+color: #D9D9D9;
+
+}
+
+lb
+{
+text-indent:50px;
+}
+
+text{
+    font-size: 1.7em;
+    line-height: 1em;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    max-width: 1920px;
+    line-height: 110%;
+    color: #4A4A4A;
+    background-image: url('page.jpg');
+    overflow:scroll;
+}
+
+
+lg[type="head"] {
+    display: inline; width: 25em; margin: 0 auto; text-align: left; letter-spacing: .1em;
+    font-size: 0.5em;font-variant:small-caps;
+    line-height: 120%;
+}
+
+head[type="main"]{
+width: 19em; margin: 0 auto; text-align: left; letter-spacing: .1em; font-size: 1.1em;  font-weight: bold;
+}
+
+head[type="main"] {
+    width: 20em; margin: 0 auto; text-align: left; letter-spacing: .3em;
+}
+
+
+@font-face {
+  font-family: "Dominican";
+  src: url('Adobe.TTF')format("truetype");
+}
+
+body{
+    font-family: Dominican, serif; background-image: url('page.jpg'); 
+}
+
+
+orig{
+    display: inline;
+}
+
+reg{
+    display: none;
+}

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="LongerNow.rng" type="xml"?>
+<?xml-stylesheet type="text/css" href="LongerNow.css" title="Original"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title n="1">The Longer Now of Ulysses: Digital Life After Analog Death</title>
+				<title n="2">"telemachus"</title>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher> "The Longer Now of Ulysses: Digital Life After Analog Death" published by David Carlton as part of the "Long Now of Ulysses" library exhibit, hosted, sponsored and produced by the University of Victoria, English 507 and English 520.</publisher>
+				<sponsor> UVic </sponsor>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<author>
+						<name>James Joyce</name>
+					</author>
+					<title>Ulysses</title>
+					<pubPlace>Paris</pubPlace>
+					<publisher>Shakespeare and Company</publisher>
+					<date>1922</date>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text vowels="369" consonants="631" xml:space="preserve">
+		<body>
+			<head type="main"></head>
+			<lg type = "dialogue" fontStyle="normal" fontSize="normal"><p n="1">				
+				<l type="speech">	—  You   said,   Stephen   answered,  <q type="italic">O,  it's only  Dedalus  whose  mother  is</q></l>
+				<l type="speech">   <q>beastly dead.</q></l></p></lg>
+			<lg type = "paragraph" fontStyle="normal" fontSize="normal"><p n="2">		
+				<l type="narration">	A flush which made him seem younger and more  engaging rose  to Buck</l>
+				<l type="narration">   Mulligan's cheek.</l></p></lg>
+			<lg type = "dialogue" fontStyle="normal" fontSize="normal"><p n="3">		
+				<l type="speech"> 	—  <q>Did I say that ?</q> he asked.  <q>Well?  What harm is that ?</q></l>
+				<l type="narration">	He shook his contraint from  him  nervously.</l></p></lg>
+			<lg type = "dialogue" fontStyle="normal" fontSize="normal"><p n="4">		
+				<l type="speech">	—  <q>And  what is  death</q>,  he asked,  <q>your mother's or yours or my own ?</q></l>
+				<l type="speech">   <q>You saw only your mother die.  I see  them  pop  off  every  day in the Mater</q></l>
+				<l type="speech">   <q>and Richmond  and  cut up  into tripes in the dissecting room.  It's a  beastly</q></l>
+				<l type="speech">   <q>thing and nothing else.  It simply doesn't matter.  You  wouldn't kneel  down</q></l>
+				<l type="speech">   <q>to pray for your mother on her deathbed when she asked you. Why? Because</q></l>
+				<l type="speech">   <q>you  have  the cursed  jesuit  strain  in you,  only  it's  injected the wrong way.</q></l>
+				<l type="speech">   <q>To me it's all a mockery and beastly  Her  cerebral lobes are  not functioning.</q></l>
+				<l type="speech">   <q>She  calls  the  doctor Sir  Peter  Teazle  and  picks  buttercups  off the  quilt.</q></l>
+				<l type="speech">   <q>Humour her till it's over. You crossed her last wish in death and yet you sulk.</q></l>
+   				<l type="speech">   <q>with  me  because I don't whinge  like  some  hired  mute  from  Lalouette's.</q></l>
+  			    <l type="speech">   <q>Absurd !  I suppose I did say it.  I didn't mean to offend the memory of your</q></l>
+				<l type="speech">   <q>mother.</q></l></p></lg>
+			<lg type = "dialogue" fontStyle="normal" fontSize="normal"><p n="5">		
+				<l type="narration">	He had spoken himself into boldness. Stephen, shielding the gaping wounds</l>
+				<l type="narration">   which the words had left in his heart,  said very coldly :</l>
+				<l type="speech">	—  <q>I am not thinking of the offence to my mother.</q></l>
+				<l type="speech">	—  <q>Of what, then ?</q> Buck Mulligan asked.</l></p></lg>
+				
+</body>
+	</text>
+</TEI>
