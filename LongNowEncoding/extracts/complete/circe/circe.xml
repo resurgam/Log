@@ -31,39 +31,29 @@
 	</teiHeader>
 	<text vowels="226" consonants="421" xml:space="preserve">
 		<body>
-			<head type="main"></head>
-			<lg type = "paragraph" fontStyle="italic" fontSize="normal"><p n="1">				
-				<l type="narration">		containing  a  lukewarm  pig's  crubeen,  the  other  a cold  sheep's  trotter, </l>
+			<head type="main"></head><lg type = "paragraph" fontStyle="italic" fontSize="normal"><p n="1">				
+				<l type="narration">		containing  a  lukewarm  pig's  crubeen, the  other  a cold  sheep's trotter, </l>
 				<l type="narration">		sprinkled with a wholepepper. He gasps, standing upright. Then bending</l>
 				<l type="narration">		to  one  side  he  presses  a  parcel  against  his  rib  and  groans.)</l>
-				<l type="blank">    -    </l></p></lg>
-				<lg type = "name" fontStyle="normal" fontSize="normal">	
-				<l type="name">					   BLOOM</l></lg>
-				<lg type = "paragraph" fontStyle="normal" fontSize="normal"><p n="2">	
+				<l type="blank">        </l></p></lg><lg type = "name" fontStyle="normal" fontSize="normal">	
+				<l type="name">BLOOM</l></lg><lg type = "paragraph" fontStyle="normal" fontSize="normal"><p n="2">	
 				<l type="dialogue">	Stitch in my side.  Why  did  I run ?</l>
-				<l type="blank">  - </l></p></lg>
-				<lg type = "paragraph" fontStyle="italic" fontSize="normal"><p n="3">	
-				<l type="narration">	(He  takes  breath  with  care  and  goes forward slowly towards the lampset</l>
+				<l type="blank">  </l></p></lg><lg type = "paragraph" fontStyle="italic" fontSize="normal"><p n="3">	
+				<l type="narration">	(He  takes  breath  with  care  and  goes forward  slowly  towards  the  lampset</l>
 				<l type="narration">		 siding.   The  glow  leaps  again.)</l>
-				<l type="blank"> - </l></p></lg>
-			    <lg type = "name" fontStyle="normal" fontSize="normal">		
-				<l type="name">					   BLOOM	</l></lg>
-				<lg type = "paragraph" fontStyle="normal" fontSize="normal"><p n="4">	
+				<l type="blank"> - </l></p></lg><lg type = "name" fontStyle="normal" fontSize="normal">		
+				<l type="name">BLOOM	</l></lg><lg type = "paragraph" fontStyle="normal" fontSize="normal"><p n="4">	
 				<l type="dialogue">	What is that ?  A flasher ? Searchlight.</l>
-				<l type="blank"> - </l></p></lg>
-				<lg type = "paragraph" fontStyle="italic" fontSize="normal"><p n="5">	
+				<l type="blank">  </l></p></lg><lg type = "paragraph" fontStyle="italic" fontSize="normal"><p n="5">	
 				<l type="narration">	      (He stands at Cormack's corner, watching.)</l>
-				<l type="blank"> - </l></p></lg>
-			<lg type = "name" fontStyle="normal" fontSize="normal">	
-				<l type="name">					   BLOOM</l></lg>
-				<lg type = "paragraph" fontStyle="mixed" fontSize="normal"><p n="6">	
-   				<l type="dialogue">	<w type="italic">Aurora borealis</w>  or  a steel foundry ?  Ah,  the brigade, of course.  South side</l>
-  			    <l type="dialogue">   anyhow.  Big blaze.  Might be  his  house.  Beggar's bush.  We're safe.  (<w type="italic">He  hums</w></l>
-				<l type="dialogue">   <w type="italic">cheerfully.</w>)  London's burning,  London's burning !  On fire, on fire ! (<w type="italic">He catches</w></l>
+				<l type="blank">  </l></p></lg><lg type = "name" fontStyle="normal" fontSize="normal">	
+				<l type="name">BLOOM</l></lg><lg type = "paragraph" fontStyle="mixed" fontSize="normal"><p n="6">	
+   				<l type="dialogue">	<w type="italic"> Aurora borealis</w>  or  a steel foundry ?  Ah,  the brigade, of course.  South side</l>
+  			    <l type="dialogue">   anyhow.  Big blaze. Might be his house.  Beggar's bush.  We're safe. (<w type="italic">He  hums</w></l>
+				<l type="dialogue">   <w type="italic">cheerfully.</w>) London's burning,  London's burning !  On fire, on fire ! (<w type="italic">He catches</w></l>
 				<l type="dialogue">   <w type="italic">sight of  the navvy  lurching  through  the  crowd  at the farther  side of  Talbot  street.</w>)</l>
 				<l type="dialogue">   I'll miss him.  Run.  Quick.  Better cross here.</l>
-				<l type="blank">   - </l></p></lg>
-			<lg type = "paragraph" fontStyle="italic" fontSize="normal"><p n="7">	
+				<l type="blank">   </l></p></lg><lg type = "paragraph" fontStyle="italic" fontSize="normal"><p n="7">	
 				<l type="narration">	      (He  darts  to  cross  the  road.  Urchins  shout.)</l></p>
 
 </lg>

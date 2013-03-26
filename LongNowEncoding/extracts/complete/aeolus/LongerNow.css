@@ -28,7 +28,7 @@ color: #D9D9D9;
 }
 
 text{
-    font-size: 1.7em;
+    font-size: 1.3em;
     line-height: 1em;
     position: fixed;
     top: 0;
@@ -48,6 +48,11 @@ lb
 text-indent:50px;
 }
 
+w[type="italic"]
+{
+font-style: italic;
+font-size: 0.9em;
+}
 
 lg[type="head"] {
     display: block; width: 39em; margin: 0 auto; text-align: left; letter-spacing: .1em;

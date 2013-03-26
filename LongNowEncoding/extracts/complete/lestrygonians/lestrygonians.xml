@@ -33,32 +33,27 @@
 		<body>
 			<head type="main"></head>
 			<lg type = "paragraph" fontStyle="normal" fontSize="normal"><p n="1">				
-				<l type="narration">   Hearth unclamping the busk of her stays.  White.</l></p></lg>
-			<lg type = "paragraph" fontStyle="normal" fontSize="normal"><p n="2">		
-				<lb><l type="narration">	Swish and soft flop her stays made on  the  bed.  Always  warm from her.</l></lb>
-				<l type="narration">   Always liked to let herself out.  Sitting there after till near two,  taking out  her</l>
-				<l type="narration">   hairpins  Milly tucked up in beddyhouse. Happy. Happy.  That was the night...</l></p></lg>
-			<lg type = "dialogue" fontStyle="normal" fontSize="normal"><p n="3">			
-				<lb><l type="speech">	— <q>O, Mr Bloom,  how do you do  ?</q></l></lb>
-				<lb><l type="speech">	— <q>O, how do you do,  Mrs Breen ?</q></l></lb>
-				<lb><l type="speech">	— <q>No use complaining. How is Molly those times? Haven't seen her for ages.</q></l></lb>
-				<lb><l type="speech">	— <q>In  the pink</q>,   Mr Bloom  said  gaily,   <q>Milly has  a  position  down  in</q></l></lb>
-				<l type="speech">   <q>Mullingar,  you know.</q></l></p></lg>
-			<lg type = "dialogue" fontStyle="normal" fontSize="normal"><p n="4">		
-				<lb><l type="speech">	— <q>Go away ! Isn't that grand for  her ?</q></l></lb>
-				<lb><l type="speech">	— <q>Yes, in a photographer's there. Getting on like a house on fire. How are</q></l></lb>
-				<l type="speech">  <q>all your charges ?</q></l></p></lg>
-			<lg type = "dialogue" fontStyle="normal" fontSize="normal"><p n="5">		
-				<lb><l type="speech">	— <q>All on the baker's list</q>, Mrs Breen said.</l></lb>
-				<lb><l type="speech">	<q>How many has she ? No other in sight.</q></l></lb>
-				<lb><l type="speech">	— <q>You're  in  black  I  see.  You have no...</q></l></lb>
-   				<lb><l type="speech">	— <q>No</q>, Mr Bloom said.  <q>I have just come from a funeral.</q></l></lb>
-  			    <lb><l type="speech">	<q>Going to crop up all day,  I foresee.   Who's dead, when and what did he</q></l></lb>
-				<l type="speech">  <q>die of ?  Turn up like a  bad  penny.</q></l></p></lg>
-			<lg type = "dialogue" fontStyle="normal" fontSize="normal"><p n="6">	
-				<lb><l type="speech">	— <q>O dear me</q>, Mrs Breen said, <q>I hope it wasn't any near relation.</q></l></lb>
-				<lb><l type="speech">	<q>May as well get her sympathy.</q></l></lb>
-				<lb><l type="speech">	— <q>Dignam</q>, Mr Bloom said. <q>An old friend of mine. He died quite suddenly</q>,</l></lb>
+				<l type="narration">   hearth unclamping the busk of her stays.  White.</l></p></lg><lg type = "paragraph" fontStyle="normal" fontSize="normal"><p n="2">		
+				<lb><l type="narration">Swish and  soft  flop  her  stays made on  the  bed.  Always  warm  from  her.</l></lb>
+				<l type="narration">   Always liked  to  let herself out.  Sitting there after till  near  two,  taking out  her</l>
+				<l type="narration">   hairpins   Milly  tucked up in beddyhouse. Happy. Happy.  That was  the  night...</l></p></lg><lg type = "dialogue" fontStyle="normal" fontSize="normal"><p n="3">			
+				<lb><l type="speech">— <q>O, Mr Bloom,  how do you do  ?</q></l></lb>
+				<lb><l type="speech">— <q>O, how do you do,  Mrs Breen ?</q></l></lb>
+				<lb><l type="speech">— <q>No use complaining. How is Molly those times? Haven't seen her for ages.</q></l></lb>
+				<lb><l type="speech">— <q>In   the   pink</q>,   Mr Bloom   said   gaily,   <q>Milly  has  a  position  down   in</q></l></lb>
+				<l type="speech">   <q>Mullingar,  you know.</q></l></p></lg><lg type = "dialogue" fontStyle="normal" fontSize="normal"><p n="4">		
+				<lb><l type="speech">— <q>Go away ! Isn't that grand for  her ?</q></l></lb>
+				<lb><l type="speech">— <q>Yes, in a photographer's  there.  Getting on like a house on  fire.  How  are</q></l></lb>
+				<l type="speech">  <q>all your charges ?</q></l></p></lg><lg type = "dialogue" fontStyle="normal" fontSize="normal"><p n="5">		
+				<lb><l type="speech">— <q>All on the baker's list</q>, Mrs Breen said.</l></lb>
+				<lb><l type="speech"><q>How many has she ? No other in sight.</q></l></lb>
+				<lb><l type="speech">— <q>You're  in  black  I  see.  You have no...</q></l></lb>
+   				<lb><l type="speech">— <q>No</q>, Mr Bloom said.  <q>I have just come from a funeral.</q></l></lb>
+  			    <lb><l type="speech"><q>Going  to  crop up  all day,  I foresee.   Who's  dead, when  and  what  did  he</q></l></lb>
+				<l type="speech">  <q>die of ?  Turn up like a  bad  penny.</q></l></p></lg><lg type = "dialogue" fontStyle="normal" fontSize="normal"><p n="6">	
+				<lb><l type="speech">— <q>O dear me</q>, Mrs Breen said, <q>I hope it wasn't any near relation.</q></l></lb>
+				<lb><l type="speech"><q>May as well get her sympathy.</q></l></lb>
+				<lb><l type="speech">— <q>Dignam</q>, Mr Bloom said. <q>An old friend of mine. He  died  quite  suddenly</q>,</l></lb>
 				<l type="speech">   <q>poor fellow.   Heart trouble,  I believe.   Funeral was this morning.</q></l></p></lg>
 				
 </body>

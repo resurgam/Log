@@ -34,13 +34,11 @@
 			<head type="main"></head>
 			<lg type = "head" fontStyle="bold" fontSize="large"> 
 			<l n="1">NOTED CHURCHMAN AN OCCASIONAL </l>
-			<l n="2">CONTRIBUTOR</l>
-			</lg>
-			<lg type = "paragraph" fontStyle="normal" fontSize="normal"><p n="1">
+			<l n="2">CONTRIBUTOR</l></lg><lg type = "paragraph" fontStyle="normal" fontSize="normal"><p n="1">
 				<l type="blank">   - </l>
 				<lb><l type="narration">	The foreman handed back the galleypage suddenly, saying :</l></lb>
-				<lb><l type="speech">	—  <q>Wait. Where's the archbishop's letter ?  It's to be repeated in the Tele-</q></l></lb>
-				<l type="speech">   <q>graph. Where's what's his name?</q></l>
+				<lb><l type="speech">	—  <q>Wait. Where's the archbishop's letter ?  It's to be repeated in the <w type="italic">Tele-</w></q></l></lb>
+				<l type="speech">   <q><w type="italic">graph</w>. Where's what's his name?</q></l>
 				<lb><l type="narration">	He looked about him round his loud unanswering machines.</l></lb>
 				<lb><l type="speech">	—  <q>Monks, sir ? a voice asked from the castingbox.</q></l></lb>
 				<lb><l type="speech">	—  <q>Ay.  Where's Monks ?</q> </l></lb>

@@ -27,15 +27,15 @@ color: #D9D9D9;
 
 
 text{
-    font-size: 1.7em;
-    line-height: 1em;
+     white-space: pre;
+    font-size: 1.3em;
     position: fixed;
     top: 0;
     right: 0;
     left: 0;
     bottom: 0;
     max-width: 1920px;
-    line-height: 110%;
+    line-height: 40%;
     color: #4A4A4A;
     background-image: url('page.jpg');
     overflow:scroll;
